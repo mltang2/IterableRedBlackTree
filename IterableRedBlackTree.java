@@ -1,19 +1,3 @@
-//////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
-//
-// Title:    Iterable Red Black Tree
-// Course:   CS 400 Fall 2024
-//
-// Author:   Michael Tang
-// Email:    mltang2@wisc.edu
-// Lecturer: Gary Dahl
-//
-//////////////////////// ASSISTANCE/HELP CITATIONS ////////////////////////////
-//
-// Persons:         No assistance from other people
-// Online Sources:
-// none used besides lecture nodes
-//
-///////////////////////////////////////////////////////////////////////////////
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import java.util.Iterator;

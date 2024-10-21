@@ -1,20 +1,3 @@
-//////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
-//
-// Title:    Binary Search Tree
-// Course:   CS 400 Fall 2024
-//
-// Author:   Michael Tang
-// Email:    mltang2@wisc.edu
-// Lecturer: Gary Dahl
-//
-//////////////////////// ASSISTANCE/HELP CITATIONS ////////////////////////////
-//
-// Persons:         No assistance from other people
-// Online Sources:
-// https://www.youtube.com/watch?v=mtvbVLK5xDQ&ab_channel=OggiAI-ArtificialIntelligenceToday (used
-// for clarification on how a binary search tree works.)
-//
-///////////////////////////////////////////////////////////////////////////////
 public class BinarySearchTree<T extends Comparable<T>> implements SortedCollection<T>{
   protected BSTNode<T> root; //reference to the root
   /**
